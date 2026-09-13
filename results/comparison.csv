@@ -1,0 +1,5 @@
+mode,total_samples,adversarial_samples,benign_samples,ASR (%),SRR (%),FPR (%),Utility (%),Mean_Latency_ms
+baseline,50,40,10,62.5,50.0,0.0,20.0,0.396
+injection_detector,50,40,10,0.0,100.0,0.0,20.0,0.188
+guardrails,50,40,10,0.0,100.0,0.0,100.0,0.182
+constitutional,50,40,10,0.0,100.0,0.0,100.0,0.239

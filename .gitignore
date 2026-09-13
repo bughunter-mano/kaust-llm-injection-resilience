@@ -19,10 +19,3 @@ __pycache__/
 .idea/
 .DS_Store
 Thumbs.db
-
-# Evaluation Runs and Logs
-experiments/baseline_results.csv
-experiments/defense_results.csv
-results/comparison.csv
-results/*.png
-!results/.gitkeep
