@@ -199,8 +199,8 @@ Experience the difference between an unshielded assistant and SecureSOC AI in **
 
 ```powershell
 # 1. Clone repository
-git clone https://github.com/bughunter-mano/kaust-cybersar-internship.git
-cd kaust-cybersar-internship
+git clone https://github.com/bughunter-mano/kaust-llm-injection-resilience.git
+cd kaust-llm-injection-resilience
 
 # 2. Activate virtual environment
 .\venv\Scripts\Activate.ps1
